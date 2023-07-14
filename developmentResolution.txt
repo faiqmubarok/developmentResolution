@@ -1,3 +1,11 @@
 Development Resolution
   - Konsisten belajar pemrograman selama 2 hari sekali
   - Menghasilkan 1 project setiap sebulan sekali
+
+Capaian Sekarang
+  - HTML
+  - CSS
+  - CSS3
+
+Target
+  - Javascript
