@@ -9,3 +9,5 @@ Capaian Sekarang
 
 Target
   - Javascript
+  - CSS Grid
+  - CSS Sass
