@@ -3,7 +3,7 @@ Development Resolution
   - Menghasilkan 1 project setiap sebulan sekali
 
 Capaian Sekarang
-  - HTML
+  - HTML {html dasar, html 5}
   - CSS
   - CSS3
 
